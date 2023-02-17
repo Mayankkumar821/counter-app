@@ -1,0 +1,32 @@
+* body
+{
+    background-color: black;
+}
+.container{display:flex; 
+background-color: rgb(245, 185, 224);
+ width:50vw; 
+ margin:auto;
+ color:rgb(0, 0, 0);
+    justify-content: space-evenly;
+   border-radius: 5px; height:30vh;
+    margin-top: 35vh;
+    border: 5px solid violet;
+border-radius: 30px;}
+
+    .buton
+    {width:30vw;
+        height:8vh;
+     margin:auto;
+
+        position: relative;
+        justify-content: space-between;
+        display: flex;
+    
+    }
+    .btn
+    {
+        height:5vh;
+        width:8vw;
+        border: 3px solid black;
+        border-radius: 30px ;
+    }
